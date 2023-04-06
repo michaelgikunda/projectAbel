@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://projectabel.netlify.app/sitemap.xml

@@ -1,0 +1,118 @@
+@font-face {
+   font-display: swap;
+   font-family: "Pompiere ";
+   src: url('../fonts/Pompiere-Regular.ttf') format('truetype');
+}
+@font-face {
+   font-display: swap;
+   font-family: "Qalisso";
+   src: url('../fonts/Qalisso.otf') format('opentype');
+}
+@font-face {
+   font-display: swap;
+   font-family: "Blackout";
+   src: url('../fonts/Blackout Sunrise.ttf') format('truetype');
+}
+@font-face {
+   font-display: swap;
+   font-family: "Bahnschrift";
+   src: url('../fonts/BAHNSCHRIFT.TTF') format('truetype');
+}
+@font-face {
+   font-display: swap;
+   font-family: "Abel";
+   src: url('../fonts/Abel-Regular.ttf') format('truetype');
+}
+@font-face {
+   font-display: swap;
+   font-family: "Boldfinger";
+   src: url('../fonts/Boldfinger.ttf') format('truetype');
+}
+h1,
+.h1 {
+   --color: #000000;
+   background-color: transparent;
+   color: #000000;
+   display: inline-block;
+   font-family: Arial;
+   font-size: 32px;
+   font-weight: bold;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   text-decoration: none;
+}
+h2,
+.h2 {
+   --color: #000000;
+   background-color: transparent;
+   color: #000000;
+   display: inline-block;
+   font-family: Arial;
+   font-size: 27px;
+   font-weight: bold;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   text-decoration: none;
+}
+h3,
+.h3 {
+   --color: #000000;
+   background-color: transparent;
+   color: #000000;
+   display: inline-block;
+   font-family: Arial;
+   font-size: 24px;
+   font-weight: bold;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   text-decoration: none;
+}
+h4,
+.h4 {
+   --color: #000000;
+   background-color: transparent;
+   color: #000000;
+   display: inline-block;
+   font-family: Arial;
+   font-size: 21px;
+   font-style: italic;
+   font-weight: bold;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   text-decoration: none;
+}
+h5,
+.h5 {
+   --color: #000000;
+   background-color: transparent;
+   color: #000000;
+   display: inline-block;
+   font-family: Arial;
+   font-size: 19px;
+   font-weight: bold;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   text-decoration: none;
+}
+h6,
+.h6 {
+   --color: #000000;
+   background-color: transparent;
+   color: #000000;
+   display: inline-block;
+   font-family: Arial;
+   font-size: 16px;
+   font-weight: bold;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   text-decoration: none;
+}
+.CustomStyle {
+   --color: #2E74B5;
+   background-color: transparent;
+   color: #2E74B5;
+   font-family: "Courier New";
+   font-size: 16px;
+   font-weight: bold;
+   text-decoration: none;
+}
